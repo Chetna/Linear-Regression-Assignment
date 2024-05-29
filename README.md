@@ -14,5 +14,6 @@ Python 3.x version
   - Seaborn
   - statsmodels
   - sklearn
+    
 **Contributors**
 Chetna Puorhit
