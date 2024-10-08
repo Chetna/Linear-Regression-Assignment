@@ -16,4 +16,4 @@ Python 3.x version
   - sklearn
     
 **Contributors**
-Chetna Puorhit
+Chetna Purohit
